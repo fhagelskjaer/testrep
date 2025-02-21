@@ -1,2 +1,3 @@
 Hejj
+linje 2
 New feature number 2
